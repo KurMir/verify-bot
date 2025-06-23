@@ -1,0 +1,26 @@
+{
+  "name": "verify-bot",
+  "version": "1.0.0",
+  "description": "discord verify bot test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KurMir/verify-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KurMir/verify-bot/issues"
+  },
+  "homepage": "https://github.com/KurMir/verify-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.20.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
